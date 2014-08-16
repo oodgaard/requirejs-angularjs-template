@@ -10,11 +10,9 @@
     <h1>RequireJS + AngularJS Template</h1>
     <div data-ng-view></div>
     <script src="components/requirejs/require.js"></script>
+    <!-- grunt:dist-path -->
     <script>
         require(["app/js/main"], function () {
-            requirejs.config({
-              paths: {'app/js/ng-bootstrap': 'app/dist/app'}
-            });
             require(['app/js/ng-bootstrap']);
         });
     </script>

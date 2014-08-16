@@ -25,7 +25,7 @@ require.config({
 
     shim: {
         angular: {
-            exports: 'angular',
+            exports: 'angular'
         },
         'angular-route': {
             exports: 'ngRoute',

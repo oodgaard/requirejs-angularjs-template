@@ -3,7 +3,8 @@ define([
     'angular',
     'angular-route',
     './app',
-    './routes'
+    './routes',
+    'domReady'
 ], function (require, ng) {
     'use strict';
 

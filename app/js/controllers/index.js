@@ -1,5 +1,5 @@
 define([
-    './example.controller',
+    './example.controller'
 ], function () {
     'use strict';
     return undefined;

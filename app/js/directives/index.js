@@ -1,6 +1,6 @@
 define([
     //Add here defined directives
-    './example.directive',
+    './example.directive'
 ], function () {
     'use strict';
     return undefined;
