@@ -2,7 +2,7 @@
   "version": "0.1.0",
   "private": true,
   "name": "requirejs-angularjs-template",
-  "author": "Albert Gonz·lez <albert.glez.mld@gmail.com>",
+  "author": "Albert Gonz√°lez <albert.glez.mld@gmail.com>",
   "description": "Simple template of RequireJS and AngularJS configured for optimized distribution building and unit testing",
   "license": "MIT",
   "devDependencies": {
